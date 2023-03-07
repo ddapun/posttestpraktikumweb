@@ -1,5 +1,8 @@
 # posttestpraktikumweb
 
+NAMA : Ahmad Fariz Aisyar Dafin
+NIM : 2109116083
+
 website ini merupakan tentang guild game Nikke : Goddes of Victory, Guild tersebut bernama Baguette.
 
 di home.html, kita akan diperlihatkan dengan notice recruitment untuk bergabung ke dalam guild baguette.
